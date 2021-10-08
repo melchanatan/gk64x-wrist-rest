@@ -1,5 +1,5 @@
 # gk64x-wrist-rest
-Wrist rest for GK64x  
+Wrist Rest for GK64x Keyboard
 ### Hexagonal Design  
 <p float="left">
   <img src="img/hexagon_demo.jpg" width="50%"/>
